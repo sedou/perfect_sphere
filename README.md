@@ -9,4 +9,4 @@ To enable click on the "Add Mesh: Perfect Sphere" in the list of addons
 
 <img src="perfectsphereaddon.jpg" height="771" width="553">
 
-<img src="perfectsphereaddon2.jpg" height="729" width="600">
+<img src="perfectsphereaddon2.jpg" height="730" width="597">
